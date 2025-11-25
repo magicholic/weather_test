@@ -1,3 +1,3 @@
-const API_KEY = '0afd736b4041ee59232eb6585a7dc73e'
+const API_KEY = '' // Insert your API key here
 
 export { API_KEY }
